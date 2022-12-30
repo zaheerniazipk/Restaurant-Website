@@ -5,3 +5,5 @@ The restaurant Website is a responsive website project, made and designed using 
 <p align="center">
 <img src="https://github.com/zaheerniazipk/Restaurant-Website/blob/main/Cover.png" alt="Cover Image">
 </p>
+
+- [Live Demo](https://cheerful-brigadeiros-3670fe.netlify.app/)
